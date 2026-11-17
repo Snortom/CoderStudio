@@ -1,2 +1,2 @@
 # CoderStudio
-Coder Studio官方发行仓库 https://coderstudio.cnco
+Coder Studio官方发行仓库 https://www.coderstudio.cn/
